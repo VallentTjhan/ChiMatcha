@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_cream">#FDF7EA</color> <color name="text_green_dark">#1B4D2E</color>
+    <color name="bg_green_card">#769C75</color> <color name="input_cream">#F5EEDB</color>
+    <color name="btn_red">#802B2A</color>
+    <color name="text_error_red">#D32F2F</color>
+    <color name="white">#FFFFFF</color>
+</resources>
